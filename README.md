@@ -34,17 +34,31 @@ Onde pode me encontrar:
 </div>
 
 
-
 <br>
-
-
 
 ## Portfólio e Principais Projetos
 ### RH Dashboard
 <img align="right" width="600"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
 Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam a folha salarial da empresa, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+<br>
+<br>
 
 <a href='https://github.com/Christophersantos007/RHportifolio'>  Clique aqui </a> e acesse o repositório no Github.
+
+
+##
+
+
+<br>
+<br>
+
+
+<img align="right" width="600"  src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam  as vendas da empresa, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+
+<br>
+<a href='https://github.com/Christophersantos007/BFlubsportifolio'>  Clique aqui </a> e acesse o repositório no Github.
+
 
 
 
