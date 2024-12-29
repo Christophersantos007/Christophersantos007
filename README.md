@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Ambulâncias Crespo
+- 🔭 I’m currently working on  Ambulâncias Crespo
 - 🌱 I’m currently learning SQL e Power B.I
 - 👯 I’m looking to collaborate on análise de dados
 - 🤔 I’m looking for trabalho em análise de dados
