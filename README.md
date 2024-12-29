@@ -5,12 +5,11 @@
 
 - 🔭 I’m currently working on Ambulâncias Crespo
 - 🌱 I’m currently learning SQL e Power B.I
-- 👯 I’m looking to collaborate on Análise de dados
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on análise de dados
+- 🤔 I’m looking for trabalho em análise de dados
+- 📫 How to reach me: christopher_assumpcao99@live.com
+- ⚡ Fun fact: Trabalho em uma empresa de ambulâncias como admininstrativo onde inovei dashboards para tomada de decisões
+- 🎓 Sou formado em RH e faço pós graduação e análise e ciências de dados
 
 Principais Ferramentas:
 
@@ -36,9 +35,16 @@ Onde pode me encontrar:
 
 <br>
 
+
+
+## Portfólio e Principais Projetos
+### RH Dashboard
+<img align="right" width="800"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam a folha salarial da empresa, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+
 <a href='https://github.com/Christophersantos007/RHportifolio'>  Clique aqui </a>
 
-<img width=700 src='https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true ' >
+
 
 
 
