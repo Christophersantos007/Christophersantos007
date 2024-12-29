@@ -3,15 +3,16 @@
 
 
 
-- 🔭 I’m currently working on  Ambulâncias Crespo
-- 🌱 I’m currently learning SQL e Power B.I
-- 👯 I’m looking to collaborate on análise de dados
-- 🤔 I’m looking for trabalho em análise de dados
+- 🔭 Atualmente estou trabalhando na Ambulâncias Crespo
+- 🌱 Atualmente estou aprendendo SQL e Power B.I
+- 👯 Procuro colaborar na análise de dados
+- 🤔 Procuro trabalho em análise de dados
 - 🏠 Atualmente moro em Portugal
-- 📫 How to reach me: christopher_assumpcao99@live.com
-- ⚡ Fun fact: Trabalho em uma empresa de ambulâncias como admininstrativo onde inovei dashboards para tomada de decisões
+- 📫 Como entrar em contato comigo: christopher_assumpcao99@live.com
+- ⚡ Curiosidade: Trabalho em uma empresa de ambulâncias como administrativo onde inovei dashboards para tomada de decisões
 - 🎓 Sou formado em RH e faço pós graduação em análise e ciências de dados
 
+  ##
 Principais Ferramentas:
 
 <div style="display: inline_block">
@@ -19,7 +20,7 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div>
 
-
+##
 
 Onde pode me encontrar:
 <div style="display: inline_block">
