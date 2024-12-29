@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning SQL e Power B.I
 - 👯 I’m looking to collaborate on análise de dados
 - 🤔 I’m looking for trabalho em análise de dados
+- 🏠 Atualmente moro em Portugal
 - 📫 How to reach me: christopher_assumpcao99@live.com
 - ⚡ Fun fact: Trabalho em uma empresa de ambulâncias como admininstrativo onde inovei dashboards para tomada de decisões
 - 🎓 Sou formado em RH e faço pós graduação e análise e ciências de dados
