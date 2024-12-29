@@ -10,7 +10,7 @@
 - 🏠 Atualmente moro em Portugal
 - 📫 How to reach me: christopher_assumpcao99@live.com
 - ⚡ Fun fact: Trabalho em uma empresa de ambulâncias como admininstrativo onde inovei dashboards para tomada de decisões
-- 🎓 Sou formado em RH e faço pós graduação e análise e ciências de dados
+- 🎓 Sou formado em RH e faço pós graduação em análise e ciências de dados
 
 Principais Ferramentas:
 
