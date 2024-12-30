@@ -25,7 +25,7 @@ Principais Ferramentas:
 Onde pode me encontrar:
 <div style="display: inline_block">
   
-  <a href="https://www.linkedin.com/in/christopher-assump%C3%A7%C3%A3o-496a772a6/)/" target="_blank">
+<P>  <a href="https://www.linkedin.com/in/christopher-assump%C3%A7%C3%A3o-496a772a6/)/" target="_blank"> </P>
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
   <a href="https://www.instagram.com/christopher_assumpcao/"_blank">
@@ -49,8 +49,12 @@ Projeto de dashboard devolvido com Power BI para identificar os principais fator
 <a href="https://github.com/Christophersantos007/RHportifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
-<p>
- Vendas empresa Lubrificantes
+
+
+
+
+  
+ ### Vendas empresa Lubrificantes
 <img align="left" width="500" src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
 <hr>
 Projeto desenvolvido para análise e entendimento das vendas da empresa BFLUBIS 
@@ -61,9 +65,11 @@ Projeto desenvolvido para análise e entendimento das vendas da empresa BFLUBIS
 <br>
 <a href="https://app.powerbi.com/groups/me/reports/b83e7dd6-579d-42d1-8492-e8f2dcf289f3/ReportSection?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 
-<p/>
 
 
+
+
+<br><br>
 
 
 ### Adidas Dashboard
