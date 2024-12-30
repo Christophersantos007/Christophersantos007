@@ -71,11 +71,11 @@ Projeto de dashboard desenvolvido com Power BI para identificar os principais fa
 <br>
 <a href='### PAINEL DE VENDAS 
 
-<img align="right" width="600"  src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
+<img align="right" width="600"  src="https://github.com/Christophersantos007/Adidas_sales/blob/main/imagem/Captura%20de%20tela%202024-12-29%20224530.png?raw=true">
 Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam  as vendas da empresa de lubrificante , permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 
 <br>
-<a href='https://github.com/Christophersantos007/BFlubsportifolio'>  Clique aqui </a> e acesse o repositório no Github.'>  Clique aqui </a> e acesse o repositório no Github.
+<a href='https://github.com/Christophersantos007/Adidas_sales/blob/main/imagem/Captura%20de%20tela%202024-12-29%20224530.png?raw=true'>  Clique aqui </a> e acesse o repositório no Github.'>  Clique aqui </a> e acesse o repositório no Github.
 
 
 
