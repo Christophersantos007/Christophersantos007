@@ -36,46 +36,47 @@ Onde pode me encontrar:
 
 <br>
 
+
+
 ## Portfólio e Principais Projetos
-
 ### RH Dashboard
-<img align="right" width="600"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam a folha salarial da empresa, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+<img align="right" width="500"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam a folha de pagamento, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+
 <br>
+<a href="https://app.powerbi.com/groups/me/reports/cafde2a9-92a7-40b0-92c0-c3d6f0d15a65/cdf99466b10972f494e6?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-
-<a href='https://github.com/Christophersantos007/RHportifolio'>  Clique aqui </a> e acesse o repositório no Github.
-
- 
-
+<a href="https://github.com/Christophersantos007/RHportifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
-
-  
-### PAINEL DE VENDAS 
-
-<img align="right" width="600"  src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam  as vendas da empresa de lubrificante , permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+<p>
+ Vendas empresa Lubrificantes
+<img align="left" width="500" src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
+<hr>
+Projeto desenvolvido para análise e entendimento das vendas da empresa BFLUBIS 
+  <br>
 
 <br>
-<a href='https://github.com/Christophersantos007/BFlubsportifolio'>  Clique aqui </a> e acesse o repositório no Github.
+<a href="https://github.com/Christophersantos007/BFlubsportifolio">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/groups/me/reports/b83e7dd6-579d-42d1-8492-e8f2dcf289f3/ReportSection?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+
+<p/>
 
 
 
- 
+
+### Adidas Dashboard
+<img align="right" width="500"  src="https://github.com/Christophersantos007/Adidas_sales/blob/main/imagem/Captura%20de%20tela%202024-12-29%20224530.png?raw=true">
+<hr>
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam a venda no ano de 2022 , permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+
+<br>
+<a href="https://app.powerbi.com/groups/9e3b08e7-70c8-400f-a3fe-d2d3eeaf2f87/reports/6b522646-df5c-43a3-8a81-2e1dfbb508ff/8473726a334a9d82f4d1?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="https://github.com/Christophersantos007/Adidas_sales" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
-
-
- PAINEL DE VENDAS 
-
-<img align="right" width="600"  src="https://github.com/Christophersantos007/Adidas_sales/blob/main/imagem/Captura%20de%20tela%202024-12-29%20224530.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam  as vendas da empresa de lubrificante , permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
-
-<br>
-<a href='https://github.com/Christophersantos007/Adidas_sales/blob/main/imagem/Captura%20de%20tela%202024-12-29%20224530.png?raw=true'>  Clique aqui </a> e acesse o repositório no Github.'>  Clique aqui </a> e acesse o repositório no Github.
-
-
-
+<p>
 
 
