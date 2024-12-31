@@ -63,13 +63,13 @@ Projeto desenvolvido para análise e entendimento das vendas da empresa BFLUBIS
 <br>
 <a href="https://github.com/Christophersantos007/BFlubsportifolio">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/groups/me/reports/b83e7dd6-579d-42d1-8492-e8f2dcf289f3/ReportSection?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
-
+<a href="https://app.powerbi.com/groups/me/reports/b83e7dd6-579d-42d1-8492-e8f2dcf289f3/ReportSection?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 
 
 
 
 <br><br>
+
 
 
 ### Adidas Dashboard
