@@ -41,7 +41,7 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### RH Dashboard
 <img align="right" width="500"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam a folha de pagamento, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Projeto de dashboard devolvido com Power BI podendo fornecer insights importantes sobre a gestão de recursos humanos, o pagamento dos colaboradores e a eficiência financeira da empresa., permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 
 <br>
 <a href="https://app.powerbi.com/groups/me/reports/cafde2a9-92a7-40b0-92c0-c3d6f0d15a65/cdf99466b10972f494e6?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
