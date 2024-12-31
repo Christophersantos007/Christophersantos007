@@ -40,6 +40,7 @@ Onde pode me encontrar:
 
 ## Portfólio e Principais Projetos
 ### RH Dashboard
+<hr>
 <img align="right" width="500"  src="https://github.com/Christophersantos007/RHportifolio/blob/main/Imagens/rh.png?raw=true">
 Projeto de dashboard devolvido com Power BI podendo fornecer insights importantes sobre a gestão de recursos humanos, o pagamento dos colaboradores e a eficiência financeira da empresa., permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 <br>
