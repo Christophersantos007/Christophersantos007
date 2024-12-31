@@ -57,7 +57,7 @@ Projeto de dashboard devolvido com Power BI podendo fornecer insights importante
  ### Vendas empresa Lubrificantes
 <img align="left" width="500" src="https://github.com/Christophersantos007/BFlubsportifolio/blob/main/Imagens/Captura%20de%20tela%202024-12-29%20144950.png?raw=true">
 <hr>
-Projeto desenvolvido para análise e entendimento das vendas da empresa Bflubis. <br> 
+Projeto desenvolvido para análise e entendimento das vendas da empresa Bflubs. <br> 
 Aqui podemos ver o total de vendas realizadas no período e saber a margem de lucro e custo de cada produto e as regiões que mais venderam, comparado com as metas condicionais. 
   <br>
 
