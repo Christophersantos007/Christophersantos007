@@ -88,3 +88,26 @@ Projeto de dashboard devolvido com Power BI para identificar os principais fator
 <p>
 
 
+     
+ ### Vendas Banco de Dados AdventureWorks
+<img align="left" width="500" src="https://github.com/Christophersantos007/AdventureWorksPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-05-05%20103753.png?raw=true">
+<hr>
+Projeto desenvolvido para análise e entendimento das vendas e de clientes do banco de dados AdventureWorks. <br> 
+Aqui podemos ver o total de vendas realizadas no período e saber a margem de lucro e custo de cada produto e as regiões que mais venderam,e uma análise dos clientes . 
+  <br>
+
+<br>
+<a href="https://github.com/Christophersantos007/AdventureWorksPortifolio">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://github.com/Christophersantos007/AdventureWorksPortifolio/tree/main/Power%20BI" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
+
+
+
+
+<br><br>
+
+
+
+
+
+
